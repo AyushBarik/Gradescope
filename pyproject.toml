@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools","setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "machine-learning"
+version = "0.0.1"
+
+
+[project.scripts]
+run = "image_classifier.__main__:main"
