@@ -1,3 +1,5 @@
 .venv
 dist
 machine_learning.egg-info
+kaggle.json
+data
